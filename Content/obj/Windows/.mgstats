@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Vs code/Slutprojekt/Content/bil.png","C:/Vs code/Slutprojekt/Content/bin/Windows/bil.xnb","TextureProcessor","Texture2DContent",5521,10885,0,4772169
+"C:/Vs code/Slutprojekt/Content/hus2.png","C:/Vs code/Slutprojekt/Content/bin/Windows/hus2.xnb","TextureProcessor","Texture2DContent",105449,1280085,0,0501058
+"C:/Vs code/Slutprojekt/Content/hus3.png","C:/Vs code/Slutprojekt/Content/bin/Windows/hus3.xnb","TextureProcessor","Texture2DContent",105449,1280085,0,0361197
+"C:/Vs code/Slutprojekt/Content/pixel.png","C:/Vs code/Slutprojekt/Content/bin/Windows/pixel.xnb","TextureProcessor","Texture2DContent",119,89,0,0019682
+"C:/Vs code/Slutprojekt/Content/väg.jpg","C:/Vs code/Slutprojekt/Content/bin/Windows/väg.xnb","TextureProcessor","Texture2DContent",7911,355285,0,0099852
